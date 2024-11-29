@@ -1,2 +1,2 @@
-# MBA_USP ESALQ
-Projetos desenvolvidos durante o percurso do MBA USP ESALQ em Data Science e Analytics
+# MBA USP ESALQ
+Projetos e estudos desenvolvidos durante as aulas do MBA USP ESALQ em Data Science e Analytics
